@@ -1,0 +1,67 @@
+.background {
+
+    height: 100vh;
+    width: 100vw;
+
+    background-image: linear-gradient(to top, rgba(67, 49, 96, 0.8), #433160);
+
+}
+
+.menu{
+
+    width: 30%;
+
+    margin: auto;
+
+}
+
+.menu-link{
+
+    border-bottom: 3px solid rgb(157, 104, 163);
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #000000;
+    font-size: 30px;
+
+}
+
+.name {
+
+    display: flex;
+    margin-top: 30vh;
+    
+}
+
+.dev {
+
+    margin-right: auto;
+    margin-left: auto;
+    letter-spacing: 0.4em;
+    font-size: 80px;
+    color: #B480D2;
+    font-weight: bold;
+    box-shadow: 0 4px 2px -2px #B480D2;
+    text-shadow: 1px 1px 1px #000000;
+
+}
+
+.img {
+
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin-top: 2em;
+    height: 250px;
+
+}
+
+.subtitulo{
+
+    width: 50%;
+    margin-left: 70%;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #000000;
+    
+}
